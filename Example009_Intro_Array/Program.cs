@@ -26,6 +26,6 @@ int result = Max(
 //int max3 = Max(a3, b3, c3);
 //int max = Max(max1, max2, max3);
 
-Console.Write("max =  ") ;
+Console.Write("max  =  ") ;
 Console.Write(result) ;
 
